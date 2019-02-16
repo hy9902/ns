@@ -1,203 +1,339 @@
-[NUTDB-CHANGELOG][v108][UPDATED:02.12.19][SHOGUN:02.07.19][m22]
+[NUTDB-CHANGELOG][v109][UPDATED:02.15.19][SHOGUN:02.14.19][m22]
 
-A) Added the following 2 BASE titles:
+A) Added the following 56 BASE titles:
 
-ACA NEOGEO PUZZLE BOBBLE 2|0100BC700C7AE000|US
-Mimic Hunter|010024A00C854000|US
+Almost There The Platformer|01009C400C88C000|US
+Asterix & Obelix XXL 2|01000A800C5DA000|HK
+Astrology and Horoscopes Premium|010034800B75E000|US
+BATTLLOON|010048300D5C2000|AU
+BlazeRush|0100AD400BBE0000|US
+Chocobo's Mystery Dungeon EVERY BUDDY!|0100BF600BF26000|US
+Constructor Plus|0100A330022C2000|US
+DAEMON X MACHINA Prototype Missions|0100BF600D83A000|US
+DAEMON X MACHINA Prototype Orders|010087F00D70C000|JP
+Degrees of Separation|010067900B9C4000|US
+DELTARUNE Chapter 1|010023800D64A000|US
+Duck Hunting Challenge|01000BA00C9EE000|GB
+Dungeon Stars|0100E79009A94000|GB
+FINAL FANTASY IX|01006F000B056000|JP
+FINAL FANTASY IX|01007EF00B094000|US
+GIGANTIC ARMY|010067A00D35E000|US
+Guess the word|01005DC00D80C000|US
+Hexa Maze|010066900BDE6000|US
+I wanna fly|010025C00D8A2000|AU
+JUDGEMENT 7 俺達の世界わ終っている。|01007D600CE9C000|JP
+Modern Combat Blackout|0100D8700B712000|US
+Neverout ネヴァーアウト|01000B600C35A000|JP
+Nice Slice|0100EDD00D530000|US
+Pet Care|010082A00D80A000|US
+Pizza Parking|01006C700D2CE000|GB
+R B I Baseball 19|0100FCB00BF40000|US
+RICO|01009D5009234000|JP
+Riddled Corpses EX|01002C700C326000|US
+Superola スーパーオーラ and the Lost Burgers|010015D00D080000|JP
+Tales of the Orient - The Rising Sun|01004DC00CFD2000|GB
+Tanks Meet Zombies|01008B700D5CA000|AU
+Tetris 99|010040600C5CE000|US
+THE ゴルフ|010014A00AC5A000|JP
+TOUHOU SKY ARENA -MATSURI-CLIMAX|0100F42007752000|US
+Trine 2 Complete Story|010064E00A932000|US
+Tyr Chains of Valhalla|01003B200C6CA000|US
+Warplanes WW2 Dogfight|010068E00D346000|US
+YUMENIKKI -DREAM DIARY-|0100D6B00CD88000|AU
+アーケードアーカイブス フロントライン|0100496006EC8000|JP
+アルケミックダンジョンズDX|01000E800CC26000|JP
+イモムシウォーズDX|01002B300D8F0000|JP
+ゲーム ドラえもん のび太の月面探査記|01006F400CC9A000|JP
+ディスティニーコネクト|0100C6200C718000|JP
+トライアルズ ライジング スタンダードエディション|01003E800A102000|JP
+ドラゴンクエストライバルズ|01001A400C53A000|JP
+パイロットスポーツ|010074D00CEB0000|JP
+フォーゴットン・アン|010071E00CFE6000|JP
+ブリキの騎士|010042800CFFE000|JP
+ルルアのアトリエ ～アーランドの錬金術士４～|0100B2B00BDEE000|JP
+ローテティングブレイブ Rotating Brave|01003A300B7A6000|JP
+僕の彼女は人魚姫！？ My Girlfriend is a Mermaid!|0100A5A00918C000|JP
+戦国無双４ DX|010021200D284000|JP
+教えて おねだり将棋|0100F8E00C998000|JP
+蒼翼默示錄 神觀之夢 特別版|0100E5F00C45E000|HK
+遙かなる時空の中で６ DX|0100F7700CB82000|JP
+金色のコルダ オクターヴ|010014A00C5E0000|JP
 
-B) Added the following 3 DLC titles:
+B) Added the following 76 DLC titles:
 
-太鼓の達人 Nintendo Switchば～じょん！ [『ポケモン Let's GO! ピカチュウ・Let's GO! イーブイ』＆ポケモンアニメミュージックパック]|0100D9A005ED7034|JP
-太鼓の達人 Nintendo Switchば～じょん！ [『ポケモン Let's GO! ピカチュウ・Let's GO! イーブイ』＆ポケモンアニメミュージックパック]|0100D9A005ED7035|JP
-太鼓の達人 Nintendo Switchば～じょん！ [『ポケモン Let's GO! ピカチュウ・Let's GO! イーブイ』＆ポケモンアニメミュージックパック]|0100D9A005ED7036|JP
+Alvastia Chronicles [エンカウントの宝珠]|0100F0700CD8F002|JP
+Alvastia Chronicles [ダメージの宝珠]|0100F0700CD8F003|JP
+Alvastia Chronicles [経験値の宝珠]|0100F0700CD8F001|JP
+BLAZBLUE CENTRALFICTION Special Edition [ファミ通 キャラクターカラー]|0100EE900AB59001|JP
+Captain Toad Treasure Tracker [Captain Toad Treasure Tracker - Special Episode]|01009BF0072D5002|US
+Captain Toad Treasure Tracker [Captain Toad Treasure Tracker – Special Episode Shifty Shrine]|01009BF0072D5001|US
+Chocobo's Mystery Dungeon EVERY BUDDY! [Buddy Chocobo “Alpha”]|0100BF600BF2700E|US
+Chocobo's Mystery Dungeon EVERY BUDDY! [Buddy Chocobo “Machinist”]|0100BF600BF2700D|US
+Hand of Fate 2 [Hand of Fate 2 A Cold Hearth]|01003620068EB003|GB
+Pic-a-Pix Deluxe [Classic 14]|01005F900416F265|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Mezase Pokémon Master -20th Anniversary-]|01002C000B553034|AU
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Mirai Connection]|01002C000B553035|AU
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Pokémon Let's Go, Pikachu! and Pokémon Let's Go, Eevee!]|01002C000B553036|AU
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum'n'Fun! - Pops Pack 2]|01002C000B553033|AU
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum'n'Fun! - Tatsujin Challenge Pack 2]|01002C000B553030|AU
+WorldNeverland - Elnea Kingdom [Chocolate Accessories Set]|01008E9007065032|US
+WorldNeverland - Elnea Kingdom [Chocolate Outfits Set]|01008E9007065025|US
+トライアルズ ライジング スタンダードエディション [クラッシュ＆サンバーン]|01003E800A103006|JP
+トライアルズ ライジング スタンダードエディション [サムライアイテムパック]|01003E800A103001|JP
+トライアルズ ライジング スタンダードエディション [シックスティシックス]|01003E800A103005|JP
+トライアルズ ライジング スタンダードエディション [ジャングルライダーパック]|01003E800A103003|JP
+トライアルズ ライジング スタンダードエディション [スタントマンライダーパック]|01003E800A103002|JP
+トライアルズ ライジング スタンダードエディション [ワイルドウエストライダーパック]|01003E800A103004|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [BGMパック]|0100F4C00B1DF016|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [コスチュームパック]|0100F4C00B1DF00D|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [施設パック１]|0100F4C00B1DF00E|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [施設パック２]|0100F4C00B1DF00F|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [施設パック３]|0100F4C00B1DF010|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [施設パック４]|0100F4C00B1DF011|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [施設パック５]|0100F4C00B1DF012|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [施設パック６]|0100F4C00B1DF013|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [施設パック７]|0100F4C00B1DF014|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [街づくりが便利になるアイテムパック]|0100F4C00B1DF017|JP
+ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ [追加ストーリー]|0100F4C00B1DF015|JP
+ピースお絵かきパズル Pic-a-Pix [１５ｘ１５ピースパック２]|010079700CA2B00B|JP
+ピースお絵かきパズル Pic-a-Pix [２０ｘ２０ピースパック２]|010079700CA2B015|JP
+ルルアのアトリエ ～アーランドの錬金術士４～ [スタートダッシュアイテムパック]|0100B2B00BDEF004|JP
+ルルアのアトリエ ～アーランドの錬金術士４～ [初回特典『イノセントフェアリー』]|0100B2B00BDEF001|JP
+ルルアのアトリエ ～アーランドの錬金術士４～ [武器超強化エンチャントシンボル８種セット]|0100B2B00BDEF003|JP
+信長の野望･大志 with パワーアップキット [シナリオ「兄弟相克」]|01009D1003A9702A|JP
+信長の野望･大志 with パワーアップキット [シナリオ「大志燃ゆ」]|01009D1003A9702B|JP
+信長の野望･大志 with パワーアップキット [シナリオ「天文の乱」]|01009D1003A97029|JP
+信長の野望･大志 with パワーアップキット [シナリオ「豊臣の逆襲」]|01009D1003A9702C|JP
+信長の野望･大志 with パワーアップキット [信長の野望･大志 パワーアップキット]|01009D1003A97028|JP
+信長の野望･大志 with パワーアップキット [姫衣装替えCGセット（5点）]|01009D1003A97032|JP
+信長の野望･大志 with パワーアップキット [週刊ヤングマガジンタイアップ「センゴク」武将顔CG]|01009D1003A97033|JP
+教えて おねだり将棋 [ママが来ても意味がないモード]|0100F8E00C999005|JP
+東方幻想魔録W [東方幻想魔録W 式神追加パッケージ]|0100EEF00BBE3001|JP
+金色のコルダ オクターヴ [かけあいフルセット（無料）]|010014A00C5E1008|JP
+金色のコルダ オクターヴ [バレンタインデー・ハル]|010014A00C5E1017|JP
+金色のコルダ オクターヴ [バレンタインデー・マルトノ]|010014A00C5E1021|JP
+金色のコルダ オクターヴ [バレンタインデー・七海]|010014A00C5E1020|JP
+金色のコルダ オクターヴ [バレンタインデー・八木沢]|010014A00C5E1018|JP
+金色のコルダ オクターヴ [バレンタインデー・冥加]|010014A00C5E101E|JP
+金色のコルダ オクターヴ [バレンタインデー・加地]|010014A00C5E100E|JP
+金色のコルダ オクターヴ [バレンタインデー・吉羅]|010014A00C5E1013|JP
+金色のコルダ オクターヴ [バレンタインデー・土岐]|010014A00C5E101C|JP
+金色のコルダ オクターヴ [バレンタインデー・土浦]|010014A00C5E100A|JP
+金色のコルダ オクターヴ [バレンタインデー・大地]|010014A00C5E1016|JP
+金色のコルダ オクターヴ [バレンタインデー・天宮]|010014A00C5E101F|JP
+金色のコルダ オクターヴ [バレンタインデー・律]|010014A00C5E1015|JP
+金色のコルダ オクターヴ [バレンタインデー・志水]|010014A00C5E100B|JP
+金色のコルダ オクターヴ [バレンタインデー・新]|010014A00C5E101A|JP
+金色のコルダ オクターヴ [バレンタインデー・月森]|010014A00C5E1009|JP
+金色のコルダ オクターヴ [バレンタインデー・東金]|010014A00C5E101B|JP
+金色のコルダ オクターヴ [バレンタインデー・柚木]|010014A00C5E100D|JP
+金色のコルダ オクターヴ [バレンタインデー・火原]|010014A00C5E100C|JP
+金色のコルダ オクターヴ [バレンタインデー・火積]|010014A00C5E1019|JP
+金色のコルダ オクターヴ [バレンタインデー・王崎]|010014A00C5E1012|JP
+金色のコルダ オクターヴ [バレンタインデー・翔麻]|010014A00C5E1010|JP
+金色のコルダ オクターヴ [バレンタインデー・芹沢]|010014A00C5E101D|JP
+金色のコルダ オクターヴ [バレンタインデー・衛藤]|010014A00C5E100F|JP
+金色のコルダ オクターヴ [バレンタインデー・金澤]|010014A00C5E1011|JP
+金色のコルダ オクターヴ [バレンタインデー・響也]|010014A00C5E1014|JP
+金色のコルダ オクターヴ [不動翔麻＆芹沢睦恋愛IFルート]|010014A00C5E1001|JP
+金色のコルダ オクターヴ [隠しルート マルトノ]|010014A00C5E1002|JP
 
-C) Added verified TITLEKEY to the following 60 BASE titles:
+C) Added the following 10 DEMO titles:
 
-99Moves|0100DE900CB84000|US
-ACA NEOGEO PUZZLE BOBBLE 2|0100BC700C7AE000|US
-Access Denied|0100A9900CB5C000|US
-Achtung! Cthulhu Tactics|010079B00B3F4000|US
-ARK Survival Evolved|0100D4A00B284000|US
-At Sundown Shots in the Dark|010032A008754000|US
-Bibi Blocksberg – Big Broom Race 3|01005FF00AF36000|US
-City of Brass|01009BC00B872000|US
-Combat Core|0100A040069DE000|US
-Defense Grid 2|010061300BBF8000|US
-Doom & Destiny|010019F00CF92000|US
-Eggggg - The platform puker|0100121007308000|US
-Estiman|01008E500CF02000|US
-Eternal Edge|010007100A16A000|US
-Ethan Meteor Hunter|0100CDE00C87C000|US
-Evoland Legendary Edition|0100ED100B160000|US
-Farm Expert 2018 for Nintendo Switch|0100BB9009FC8000|US
-Food Truck Tycoon|0100F3900D0F0000|US
-Football Heroes Turbo|0100D9B00B666000|US
-Forever Forest|01007CD00BCE2000|US
-Forgotten Tales - Day of the Dead|010064300CFD4000|US
-Funghi Explosion|0100E7B00BF24000|US
-Glass Masquerade|0100D4C00C9FC000|US
-Gnomes Garden New Home|010085B00CCEE000|US
-Inside My Radio|0100973002D6A000|US
-Kingmaker Rise to the Throne|0100A1B00C8CC000|US
-Let's Sing 10|010085A00420A000|ES
-Let's Sing 11|0100375009F80000|ES
-Let's Sing 2018 mit deutschen Hits|01006A500420E000|DE
-Let's Sing 2019 mit deutschen Hits|0100F5C009F82000|DE
-Madorica Real Estate|010099700BF10000|US
-Magic Scroll Tactics|0100AAA00D404000|US
-Mahjong Solitaire Refresh|01008C300B624000|US
-Mars or Die!|010048200B606000|US
-Mecha Storm|01001FA009A1E000|US
-Mercury Race|0100C9A00B60A000|US
-Mimic Hunter|010024A00C854000|US
-Monster Energy Supercross - The Official Videogame 2|0100F8100B982000|US
-MXGP3 - The Official Motocross Videogame|0100D940063A0000|US
-My Riding Stables - Life with Horses|010034300BFC4000|US
-New Star Manager|010082900C5FA000|US
-Nippon Marathon|0100EF5008FC4000|US
-Oxyjet|010041700A04A000|US
-Paladin|010011600BB84000|US
-Percy's Predicament Deluxe|01005CE00617E000|US
-Ping Pong Trick Shot EVOLUTION|0100C9B00D422000|US
-Pocket Academy|01009C100CE6A000|US
-Pumped BMX Pro|01009AE00B788000|US
-R B I Baseball 17|0100B5A004302000|US
-Rally Racers|010057F007AA2000|US
-RIOT - Civil Unrest|010088E00B816000|US
-Robothorium|0100ACF00CD2E000|US
-SMITE|01005A600C318000|US
-Solstice Chronicles MIA|0100DB500B17C000|US
-Splash Blast Panic|01006F900AB7E000|US
-Stunt Kite Party|0100AF000B4AE000|US
-The Stillness of the Wind|01009AB00BDFE000|US
-Trax - Build it Race it|01004C200ADA0000|US
-Ultimate Runner|010045200A1C2000|US
-Zombie Night Terror|01004F900B838000|US
+Collidalot Demo|010075100D450000|US
+Pocket Academy Demo|010004D00D222000|US
+Pokémon Let’s Go, Pikachu! and Pokémon Let’s Go, Eevee! Demo Version|0100C1800D7AE000|US
+The Path of Motus Demo|010062600D236000|US
+Timberman VS|010038400CADC000|US
+Yoshi's Crafted World Demo|0100AE800C9C6000|GB
+アペリオン・サイバーストーム 体験版|010076400D678000|JP
+フォーゴットン・アン 体験版|010095A00D316000|JP
+ラングリッサーⅠ＆Ⅱ 体験版|0100EAE00D5A6000|JP
+開店デパート日記 体験版|01002E100D1E2000|JP
 
-D) Added verified TITLEKEY to the following 102 DLC titles:
+D) Added verified TITLEKEY to the following 37 BASE titles:
 
-Clue The Classic Mystery Game [Clue Season Pass]|010029400CA21001|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Character Pack 11]|0100A250097F1016|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Character Pack 12]|0100A250097F1017|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Character Pack 13]|0100A250097F1018|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Character Pack 14]|0100A250097F1019|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Commentator Pack 1]|0100A250097F101A|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Commentator Pack 2]|0100A250097F101B|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Commentator Pack 3]|0100A250097F101C|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Jiren]|0100A250097F1014|US
-DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Videl]|0100A250097F1015|US
-Dragon Marked for Death Advanced Attackers [Additional Quest The Dragonblood Village]|010089700150F001|US
-Dragon Marked for Death Advanced Attackers [Additional Storyline The Dragonblood Bandit]|010089700150F002|US
-DragonFangZ - The Rose & Dungeon of Time [Extra Dungeon The Cave of Fangs]|0100DA0006F51001|US
-Farm Together [Farm Together - Supporters Pack]|010086B00BB51001|US
-Farm Together [Farm Together - Wasabi Pack]|010086B00BB51002|US
-Gear Club Unlimited [Gear Club Unlimited - Limited Edition Cars Pack #1 BMW M2 Coupé Sanguine]|010065E003FD9009|GB
-Gear Club Unlimited [Gear Club Unlimited - Limited Edition Cars Pack #1]|010065E003FD900B|US
-Gear Club Unlimited [Gear Club Unlimited - Limited Edition Cars Pack #2 Alpha Romeo 4C Italian Pike]|010065E003FD9005|GB
-Gear Club Unlimited [Gear Club Unlimited - Limited Edition Cars Pack #2]|010065E003FD9007|US
-Gear Club Unlimited [Gear Club Unlimited - Mclaren 570S GT4 Orange]|010065E003FD9003|GB
-Gear Club Unlimited [Gear Club Unlimited - Mclaren 570S GT4 Pack]|010065E003FD9006|US
-Gear Club Unlimited [Gear Club Unlimited - Mclaren 570S GT4 White]|010065E003FD9004|GB
-Gear Club Unlimited [Gear Club Unlimited - Super Car Mazzanti Evantra]|010065E003FD900A|US
-Gear Club Unlimited [Gear Club Unlimited - Super Car Pagani Zonda Cinque]|010065E003FD900C|US
-Gear Club Unlimited [Gear Club Unlimited - Super Car W Motors Lykan Hypersport]|010065E003FD9008|US
-Gear Club Unlimited [Premium Car Chevrolet Camaro 50th Anniversary]|010065E003FD9002|US
-Gear Club Unlimited [Premium Car Nissan 370z Nismo]|010065E003FD9001|US
-Hand of Fate 2 [Hand of Fate 2 Outlands and Outsiders]|01003620068EB001|US
-Hand of Fate 2 [Hand of Fate 2 The Servant and the Beast]|01003620068EB002|US
-Kitten Squad [Costume Megapack]|01000C900A137001|US
-LEGO The Incredibles [Parr Family Vacation Character Pack]|0100A01006E01001|US
-Let's Sing 10 [Let's Sing 10 Clásicos para fiestas Song Pack]|010085A00420B001|ES
-Let's Sing 10 [Let's Sing 10 Clásicos para fiestas Vol 2 Song Pack]|010085A00420B004|ES
-Let's Sing 10 [Let's Sing 10 Éxitos legendarios Song Pack]|010085A00420B005|ES
-Let's Sing 10 [Let's Sing 10 Lo mejor de los 80 Song Pack]|010085A00420B002|ES
-Let's Sing 10 [Let's Sing 10 Super Éxitos Song Pack]|010085A00420B003|ES
-Let's Sing 11 [Let's Sing 11 Clásicos para fiestas Vol 1]|0100375009F81001|ES
-Let's Sing 11 [Let's Sing 11 Clásicos para fiestas Vol 2]|0100375009F81004|ES
-Let's Sing 11 [Let's Sing 11 Éxitos legendarios]|0100375009F81005|ES
-Let's Sing 11 [Let's Sing 11 Lo mejor de los 80 Vol 1]|0100375009F81002|ES
-Let's Sing 11 [Let's Sing 11 Lo mejor de los 80 Vol 2]|0100375009F81007|ES
-Let's Sing 11 [Let's Sing 11 Lo mejor de los 90]|0100375009F81006|ES
-Let's Sing 11 [Let's Sing 11 Super Éxitos]|0100375009F81003|ES
-Let's Sing 2018 mit deutschen Hits [Let's Sing 2018 mit deutschen Hits - Best of 80's Song Pack]|01006A500420F002|DE
-Let's Sing 2018 mit deutschen Hits [Let's Sing 2018 mit deutschen Hits - Chart Hits Song Pack]|01006A500420F003|DE
-Let's Sing 2018 mit deutschen Hits [Let's Sing 2018 mit deutschen Hits - Legendary Hits Song Pack]|01006A500420F005|DE
-Let's Sing 2018 mit deutschen Hits [Let's Sing 2018 mit deutschen Hits - Party Classics Song Pack]|01006A500420F001|DE
-Let's Sing 2018 mit deutschen Hits [Let's Sing 2018 mit deutschen Hits - Party Classics Vol 2 Song Pack]|01006A500420F004|DE
-Let's Sing 2019 mit deutschen Hits [Let's Sing 2019 mit deutschen Hits Best of 80's Vol 1 Song Pack]|0100F5C009F83002|DE
-Let's Sing 2019 mit deutschen Hits [Let's Sing 2019 mit deutschen Hits Best of 80's Vol 2 Song Pack]|0100F5C009F83007|DE
-Let's Sing 2019 mit deutschen Hits [Let's Sing 2019 mit deutschen Hits Best of 90's Song Pack]|0100F5C009F83006|DE
-Let's Sing 2019 mit deutschen Hits [Let's Sing 2019 mit deutschen Hits Chart Hits Song Pack]|0100F5C009F83003|DE
-Let's Sing 2019 mit deutschen Hits [Let's Sing 2019 mit deutschen Hits Legendary Hits Song Pack]|0100F5C009F83005|DE
-Let's Sing 2019 mit deutschen Hits [Let's Sing 2019 mit deutschen Hits Party Classics Vol 1 Song Pack]|0100F5C009F83001|DE
-Let's Sing 2019 mit deutschen Hits [Let's Sing 2019 mit deutschen Hits Party Classics Vol 2 Song Pack]|0100F5C009F83004|DE
-Mahjong Solitaire Refresh [Mahjong Solitaire Refresh ExPanel]|01008C300B625001|US
-Minecraft Nintendo Switch Edition [Festive Skin Pack]|01006BD001E07001|US
-Mordheim Warband Skirmish [Undead Warband]|010071B009FB7001|US
-NBA Playgrounds - Enhanced Edition [NBA Playgrounds - Unlock Roster]|0100F5A008127001|GB
-Neon Chrome [Arena]|010075E0047F9001|US
-Prison Architect Nintendo Switch Edition [Prison Architect Escape Mode DLC]|010029200AB1D001|US
-Rocket League [Rocket League - Hot Wheels Triple Threat DLC Pack]|01005EE0036ED014|US
-Rocket League [Rocket League - McLaren 570S Car Pack]|01005EE0036ED015|US
-The Pinball Arcade [Gottlieb Ball Pack 1]|0100CD300880F011|US
-Zaccaria Pinball [27 Retro Tables]|010092400A67903D|US
-Zaccaria Pinball [Blackbelt 2018 Table]|010092400A679035|US
-Zaccaria Pinball [Future World 2018 Table]|010092400A679038|US
-Zaccaria Pinball [Granada Table]|010092400A679039|US
-Zaccaria Pinball [Locomotion 2018 Table]|010092400A679031|US
-Zaccaria Pinball [Nautilus 2018 Table]|010092400A67903B|US
-Zaccaria Pinball [Pinball Champ 2018 Table]|010092400A679034|US
-Zaccaria Pinball [Robot 2018 Table]|010092400A679033|US
-Zaccaria Pinball [Star's Phoenix 2018 Table]|010092400A67903C|US
-Zaccaria Pinball [Top Hand Table]|010092400A67903A|US
-Zaccaria Pinball [Tropical Table]|010092400A679037|US
-Zaccaria Pinball [Winter Sports 2018 Table]|010092400A679036|US
-ソニックフォース [アバターパーツ シャドウパック]|010079B0045C3005|JP
-ソニックフォース [アバターパーツ セガパック]|010079B0045C3003|JP
-太鼓の達人 Nintendo Switchば～じょん！ [『ポケモン Let's GO! ピカチュウ・Let's GO! イーブイ』＆ポケモンアニメミュージックパック]|0100D9A005ED7034|JP
-太鼓の達人 Nintendo Switchば～じょん！ [『ポケモン Let's GO! ピカチュウ・Let's GO! イーブイ』＆ポケモンアニメミュージックパック]|0100D9A005ED7035|JP
-太鼓の達人 Nintendo Switchば～じょん！ [『ポケモン Let's GO! ピカチュウ・Let's GO! イーブイ』＆ポケモンアニメミュージックパック]|0100D9A005ED7036|JP
-太鼓の達人 Nintendo Switchば～じょん！ [HIKAKINパック]|0100D9A005ED7022|JP
-太鼓の達人 Nintendo Switchば～じょん！ [プラチナどんちゃん]|0100D9A005ED701F|JP
-太鼓の達人 Nintendo Switchば～じょん！ [ポップスパックVol 2]|0100D9A005ED7031|JP
-太鼓の達人 Nintendo Switchば～じょん！ [ポップスパックVol 2]|0100D9A005ED7032|JP
-太鼓の達人 Nintendo Switchば～じょん！ [ポップスパックVol 2]|0100D9A005ED7033|JP
-太鼓の達人 Nintendo Switchば～じょん！ [冬休みアニメパック]|0100D9A005ED7026|JP
-太鼓の達人 Nintendo Switchば～じょん！ [太鼓の達人 Nintendo Switchば～じょん！]|0100D9A005ED7020|JP
-太鼓の達人 Nintendo Switchば～じょん！ [太鼓の達人 Nintendo Switchば～じょん！]|0100D9A005ED7021|JP
-太鼓の達人 Nintendo Switchば～じょん！ [太鼓の達人 Nintendo Switchば～じょん！]|0100D9A005ED7024|JP
-太鼓の達人 Nintendo Switchば～じょん！ [太鼓の達人 Nintendo Switchば～じょん！]|0100D9A005ED7025|JP
-太鼓の達人 Nintendo Switchば～じょん！ [太鼓の達人 Nintendo Switchば～じょん！]|0100D9A005ED7027|JP
-太鼓の達人 Nintendo Switchば～じょん！ [太鼓の達人 Nintendo Switchば～じょん！]|0100D9A005ED7028|JP
-太鼓の達人 Nintendo Switchば～じょん！ [太鼓の達人 Nintendo Switchば～じょん！]|0100D9A005ED7029|JP
-太鼓の達人 Nintendo Switchば～じょん！ [太鼓の達人 Nintendo Switchば～じょん！]|0100D9A005ED702A|JP
-太鼓の達人 Nintendo Switchば～じょん！ [達人チャレンジパックVol 1]|0100D9A005ED702B|JP
-太鼓の達人 Nintendo Switchば～じょん！ [達人チャレンジパックVol 2]|0100D9A005ED702C|JP
-太鼓の達人 Nintendo Switchば～じょん！ [達人チャレンジパックVol 2]|0100D9A005ED702D|JP
-太鼓の達人 Nintendo Switchば～じょん！ [達人チャレンジパックVol 2]|0100D9A005ED702E|JP
-太鼓の達人 Nintendo Switchば～じょん！ [達人チャレンジパックVol 2]|0100D9A005ED702F|JP
-太鼓の達人 Nintendo Switchば～じょん！ [達人チャレンジパックVol 2]|0100D9A005ED7030|JP
-太鼓の達人 Nintendo Switchば～じょん！ [雑草]|0100D9A005ED7023|JP
+Bass Pro Shops The Strike - Championship Edition|0100E3100450E000|US
+Black Hole|0100461007BB0000|US
+Cabela's The Hunt - Championship Edition|0100E24004510000|US
+Chicken Range|0100F6C00A016000|US
+DAEMON X MACHINA Prototype Missions|0100BF600D83A000|US
+DAEMON X MACHINA Prototype Orders|010087F00D70C000|JP
+Death Mark|0100D1B00B6FA000|US
+Degrees of Separation|010067900B9C4000|US
+Desktop Soccer|01004F200CB08000|US
+Duck Hunting Challenge|01000BA00C9EE000|GB
+Fairy Fencer F Advent Dark Force|010002300C632000|US
+FINAL FANTASY IX|01007EF00B094000|US
+Firefighters – The Simulation|0100434003C58000|US
+Firefighters Airport Fire Department|0100BB1009E50000|US
+Firewatch|0100AC300919A000|US
+Gelly Break|01009D000AF3A000|US
+GRIS|0100E1700C31C000|US
+LEGO NINJAGO Movie Video Game|01007FC00206E000|US
+Let's Sing 2018 Hits Français et Internationaux|0100932004208000|FR
+Let's Sing 2019 Hits Français et Internationaux|01003E6009F7E000|FR
+Minesweeper Genius|010000500B9F4000|US
+Monster Energy Supercross - The Official Videogame|0100742007266000|US
+Nightshade／百花百狼|010042300C4F6000|US
+Panda Hero|01002A300BDE2000|US
+RPGツクールMVプレイヤー|0100DF500C58A000|JP
+Sphinx and the Cursed Mummy|0100BD500BA94000|US
+Syberia 1 & 2|01004BB00421E000|US
+Tennis World Tour|0100092006814000|US
+Tetris 99|010040600C5CE000|US
+The Book of Unwritten Tales 2|010062500BFC0000|US
+The King's Bird|010020500BD98000|US
+Warp Shift|0100DB300A026000|US
+X-Morph Defense|0100DF100B97C000|US
+ドラゴンクエストライバルズ|01001A400C53A000|JP
+ネットキャッチャー ネッチ|0100642003BCA000|JP
+レコチョク|010018700A14A000|JP
+不如帰 大乱|0100833008A9E000|JP
 
-E) Added/Replaced latest VERSION to the following 16 UPD titles:
+E) Added verified TITLEKEY to the following 79 DLC titles:
 
-Bass Pro Shops The Strike - Championship Edition|0100E3100450E800|196608|US
-Cabela's The Hunt - Championship Edition|0100E24004510800|131072|US
-D Generation The Original|010020700B432800|196608|US
-Detective Gallo|01009C0009842800|327680|US
-Halcyon 6 Starbase Commander|01006B30092F0800|65536][US
-Hand of Fate 2|01003620068EA800|196608|US
-Mutant Football League Dynasty Edition|0100C3E00ACAA800|196608|US
-New Star Manager|010082900C5FA800|65536][US
-RIOT - Civil Unrest|010088E00B816800|131072][US
-SMITE|01005A600C318800|327680|US
-The King's Bird|010020500BD98800|65536][US
-Thea The Awakening|010075900CD1C800|65536][US
-Them Bombs!|01006C400ACEE800|65536][US
-TORIDAMA Brave Challenge|0100D6700C3E6800|131072|US
-YouTube|01003A400C3DA800|65536][US
-루프란의 지하미궁과 마녀의 여단|01000D500B628800|131072|KR
+DragonFangZ - The Rose & Dungeon of Time [Extra Dungeon The Inferno Hollow]|0100DA0006F51002|US
+Let's Sing 2018 Hits Français et Internationaux [Let's Sing 2018 Hits Français et Internationaux - Best of 80's Song Pack]|0100932004209002|FR
+Let's Sing 2018 Hits Français et Internationaux [Let's Sing 2018 Hits Français et Internationaux - Chart Hits Song Pack]|0100932004209003|FR
+Let's Sing 2018 Hits Français et Internationaux [Let's Sing 2018 Hits Français et Internationaux - Legendary Hits Song Pack]|0100932004209005|FR
+Let's Sing 2018 Hits Français et Internationaux [Let's Sing 2018 Hits Français et Internationaux - Party Classics Song Pack]|0100932004209001|FR
+Let's Sing 2018 Hits Français et Internationaux [Let's Sing 2018 Hits Français et Internationaux - Party Classics Vol 2 Song Pack]|0100932004209004|FR
+Let's Sing 2019 Hits Français et Internationaux [Let's Sing 2019 Hits Français et Internationaux Best of 80's Vol 1 Song Pack]|01003E6009F7F002|FR
+Let's Sing 2019 Hits Français et Internationaux [Let's Sing 2019 Hits Français et Internationaux Best of 80's Vol 2 Song Pack]|01003E6009F7F007|FR
+Let's Sing 2019 Hits Français et Internationaux [Let's Sing 2019 Hits Français et Internationaux Best of 90's Song Pack]|01003E6009F7F006|FR
+Let's Sing 2019 Hits Français et Internationaux [Let's Sing 2019 Hits Français et Internationaux Chart Hits Song Pack]|01003E6009F7F003|FR
+Let's Sing 2019 Hits Français et Internationaux [Let's Sing 2019 Hits Français et Internationaux Legendary Hits Song Pack]|01003E6009F7F005|FR
+Let's Sing 2019 Hits Français et Internationaux [Let's Sing 2019 Hits Français et Internationaux Party Classics Vol 1 Song Pack]|01003E6009F7F001|FR
+Let's Sing 2019 Hits Français et Internationaux [Let's Sing 2019 Hits Français et Internationaux Party Classics Vol 2 Song Pack]|01003E6009F7F004|FR
+Pure Electric Love Everyone else! - Ema Sakura - [Additional scenario 1]|010050300AC29001|US
+Pure Electric Love Everyone else! - Ema Sakura - [Additional scenario 2]|010050300AC29002|US
+Pure Electric Love Everyone else! - Ema Sakura - [Additional scenario 3]|010050300AC29003|US
+Pure Electric Love Everyone else! - Ema Sakura - [Additional scenario 4]|010050300AC29004|US
+Pure Electric Love Everyone else! - Ema Sakura - [Additional scenario 5]|010050300AC29005|US
+Pure Electric Love Everyone else! - Ema Sakura - [Additional scenario 6]|010050300AC29006|US
+Pure Electric Love Look at my eyes! - Moe Yamauchi - [Additional scenario 1]|010009000AC2B001|US
+Pure Electric Love Look at my eyes! - Moe Yamauchi - [Additional scenario 2]|010009000AC2B002|US
+Pure Electric Love Look at my eyes! - Moe Yamauchi - [Additional scenario 3]|010009000AC2B003|US
+Pure Electric Love Look at my eyes! - Moe Yamauchi - [Additional scenario 4]|010009000AC2B004|US
+Pure Electric Love Look at my eyes! - Moe Yamauchi - [Additional scenario 5]|010009000AC2B005|US
+Pure Electric Love Look at my eyes! - Moe Yamauchi - [Additional scenario 6]|010009000AC2B006|US
+Pure Electric Love What do you want - Eri Kitami - [Additional scenario 1]|01007B900A509001|US
+Pure Electric Love What do you want - Eri Kitami - [Additional Scenario 2]|01007B900A509002|US
+Pure Electric Love What do you want - Eri Kitami - [Additional Scenario 3]|01007B900A509003|US
+Pure Electric Love What do you want - Eri Kitami - [Additional Scenario 4]|01007B900A509004|US
+Pure Electric Love What do you want - Eri Kitami - [Additional Scenario 5]|01007B900A509005|US
+Pure Electric Love What do you want - Eri Kitami - [Additional Scenario 6]|01007B900A509006|US
+Runbow [Anime Pack]|0100ADF00700F002|US
+Runbow [Professionals Pack]|0100ADF00700F003|US
+Runbow [Satura's Space Adventure]|0100ADF00700F001|US
+Runbow [Steampunk Pack]|0100ADF00700F004|US
+Runbow [Winter Pack]|0100ADF00700F005|US
+Shantae Half-Genie Hero [Shantae Costume Pack]|0100AE0003425003|US
+Shantae Half-Genie Hero [Shantae Friends to the End]|0100AE0003425002|US
+SNK HEROINES Tag Team Frenzy [SNK HEROINES Tag Team Frenzy - JEANNE]|010027F00AD6D004|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! From Symphony No 7]|01002C000B553004|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Hungarian Dance No 5]|01002C000B553006|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Jupiter]|01002C000B553009|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! La Campanella]|01002C000B553005|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! March From The Nutcracker]|01002C000B553008|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Montagues and Capulets]|01002C000B55300A|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! NEKOKO & TOMOMO]|01002C000B553018|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Pops Pack Vol 1]|01002C000B55301E|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Requiem - Day of Wrath]|01002C000B553007|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! STUDIO GHIBLI Pack]|01002C000B553011|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Symphony No 25 in G Minor - First Movement]|01002C000B553003|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Tatsujin Challenge Pack Vol 1]|01002C000B55302B|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Touhou Project Arrangements Pack]|01002C000B55301B|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Toy Symphony]|01002C000B553002|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! VOCALOID Music Pack]|01002C000B553017|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! Winter Holiday Anime Pack]|01002C000B553026|US
+Taiko no Tatsujin Drum 'n' Fun! [Taiko no Tatsujin Drum 'n' Fun! ZASSOU]|01002C000B553023|US
+Tennis World Tour [Tennis World Tour - Agassi Pack]|0100092006815001|US
+Tennis World Tour [Tennis World Tour - Coach Sophie Walker]|0100092006815008|US
+Tennis World Tour [Tennis World Tour - John McEnroe]|0100092006815002|US
+Tennis World Tour [Tennis World Tour - Legend Badge]|0100092006815005|US
+Tennis World Tour [Tennis World Tour - Nike Official Outfits]|0100092006815006|US
+Tennis World Tour [Tennis World Tour - Skill Cards Pack]|0100092006815007|US
+Tennis World Tour [Tennis World Tour - Wilson Pro Staff 97]|0100092006815004|US
+Tennis World Tour [Tennis World Tour - Wilson Pro Staff RF97]|0100092006815003|US
+The Lost Child [The Lost Child Fruits of Wisdom Set]|01008A000A405002|US
+The Lost Child [The Lost Child Heavenly 7 Set]|01008A000A405003|US
+The Lost Child [The Lost Child Light of Blessing Set]|01008A000A405001|US
+The Pinball Arcade [Alvin G & Co Table Pack]|0100CD300880F00E|US
+The Pinball Arcade [Doctor Who Master of Time]|0100CD300880F00F|US
+The Pinball Arcade [Gottlieb EM Table Pack]|0100CD300880F00B|US
+The Pinball Arcade [Gottlieb Table Pack 1]|0100CD300880F008|US
+The Pinball Arcade [Gottlieb Table Pack 2]|0100CD300880F009|US
+The Pinball Arcade [Gottlieb Table Pack 3]|0100CD300880F00A|US
+WWE 2K18 [WWE 2K18 Enduring Icons Pack]|010009800203F008|US
+WWE 2K18 [WWE 2K18 New Moves Pack]|010009800203F007|US
+WWE 2K18 [WWE 2K18 NXT Generation Pack]|010009800203F006|US
+X-Morph Defense [X-Morph Defense European Assault]|0100DF100B97D001|US
+X-Morph Defense [X-Morph Defense Last Bastion]|0100DF100B97D003|US
+X-Morph Defense [X-Morph Defense Survival Of The Fittest]|0100DF100B97D002|US
 
-F) Reflagged 1 title marked as BASE to DEMO
+F) Added verified TITLEKEY to the following 4 DEMO titles:
 
-Bad North|010075000D092000|US
+Pokémon Let’s Go, Pikachu! and Pokémon Let’s Go, Eevee! Demo Version|0100C1800D7AE000|US
+Yoshi's Crafted World Demo|0100AE800C9C6000|GB
+フォーゴットン・アン 体験版|010095A00D316000|JP
+開店デパート日記 体験版|01002E100D1E2000|JP
+
+G) Added/Replaced latest VERSION to the following 48 UPD titles:
+
+Atari Flashback Classics|0100CF3007578800|65536|US
+Away Journey To The Unexpected|01002F1005F3C800|131072|US
+Black Hole|0100461007BB0800|262144|US
+Blossom Tales The Sleeping King|0100C1000706C800|131072|US
+BOMBFEST|010001600C962800|131072|US
+Brawlhalla|0100C6800B934800|458752|US
+Captain Toad Treasure Tracker|01009BF0072D4800|65536|US
+Cinders|01009AC00D5F4800|65536|US
+DAEMON X MACHINA Prototype Orders|010087F00D70C800|65536|JP
+Dead Cells|0100646009FBE800|196608|US
+Degrees of Separation|010067900B9C4800|65536|US
+Doodle God Evolution|0100D3200AF74800|65536|US
+Dreamwalker|0100A7D00C694800|65536|US
+Elemental Knights R|01005FA009370800|196608|US
+Everything|010031F00B246800|65536|US
+FIFA 19|0100FFA0093E8800|327680|US
+Fortnite|010025400AECE800|2752512|US
+GRIP|0100459009A2A800|262144|US
+I Am The Hero|0100019006F4E800|131072|US
+LEGRAND LEGACY Tale of the Fatebounds|0100E7500BF84800|196608|US
+Mahjong Solitaire Refresh|01008C300B624800|131072|US
+Momodora Reverie Under the Moonlight|01004A400C320800|131072|US
+Moonlighter|0100F4700B2E0800|262144|US
+My Little Riding Champion|01008C600395A800|196608|GB
+NEKOPARA Vol 1|0100B4900AD3E800|196608|US
+NEKOPARA Vol 2|010012900C782800|65536|US
+Nintendo Entertainment System - Nintendo Switch Online|0100D870045B6800|327680|US
+Paladins|010023900AEE0800|1245184|US
+Pikuniku|010097D006DEA800|131072|US
+RADIOHAMMER STATION|01008FA00ACEC800|65536|US
+RICO|01009D5009234800|131072|JP
+RICO|01009D5009234800|65536|JP
+RPGツクールMV Trinity|010033C00985E800|327680|JP
+Salt and Sanctuary|0100D250083B4800|196608|US
+Shanky The Vegan`s Nightmare|010006C00CC10800|131072|US
+Sphinx and the Cursed Mummy|0100BD500BA94800|65536|US
+Stellar Interface|01005A700C954800|131072|US
+Sundered Eldritch Edition|01002D3007962800|262144|US
+The Office Quest|0100A2A00B08C800|131072|US
+The Stillness of the Wind|01009AB00BDFE800|131072|US
+TRYBIT LOGIC|0100DFA00C6A6800|65536|US
+Unruly Heroes|010001300CC4A800|131072|US
+탐정 진구지 사부로 프리즘 오브 아이즈|010064000CA60800|131072|KR
+ドラゴンクエストライバルズ|01001A400C53A800|131072|JP
+ドラゴンクエストライバルズ|01001A400C53A800|196608|JP
+バトルプリンセス マデリーン|010094A00BEF8800|131072|JP
+ファミリーコンピュータ Nintendo Switch Online|0100B4E00444C800|327680|JP
+信長の野望･大志 with パワーアップキット|01009D1003A96800|851968|JP
+
+H) Added/Replaced latest VERSION to the following 2 DEMO UPD titles:
+
+Demo Cinderella - An Interactive Fairytale|010062200CF14800|65536|US
+Fitness Boxing Demo|010050200D0DA800|65536|US
+
+Note: All DEMOS now reflect their respective name as indicated in SHOGUN data. (This includes the word "demo" in various titles.)
